@@ -1,6 +1,7 @@
 public class GitTest {
 
 	/**
+	 * Just adding a comment to the master branch
 	 * @param args
 	 */
 	public static void main(String[] args) {
