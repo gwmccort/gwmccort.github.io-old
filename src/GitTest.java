@@ -8,6 +8,6 @@ public class GitTest {
 		// created w/ eclipse on branch
 		// this is on master
             // updated from netbeans
-		System.out.println("Git is fun and easy i think and from work and from home");
+		System.out.println("Git is fun and easy i think and from work and from home test");
 	}
 }
