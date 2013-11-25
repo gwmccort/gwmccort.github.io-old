@@ -9,5 +9,7 @@ public class GitTest {
 		// this is on master
             // updated from netbeans
 		System.out.println("Git is fun and easy i think and from work and from home test");
+
+		//update from work
 	}
 }
