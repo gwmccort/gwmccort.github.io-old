@@ -11,5 +11,7 @@ public class GitTest {
 		System.out.println("Git is fun and easy i think and from work and from home test");
 
 		//update from work
+
+		//update on branch1
 	}
 }
