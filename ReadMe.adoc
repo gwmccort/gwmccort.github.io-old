@@ -1,3 +1,4 @@
 
 * http://gwmccort.github.io/
 * https://help.github.com/categories/github-pages-basics/[GitHub Pages Help]
+* http://gwmccort.github.io/pl/[pl pages]
