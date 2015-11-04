@@ -1,0 +1,3 @@
+
+* http://gwmccort.github.io/
+* https://help.github.com/categories/github-pages-basics/[GitHub Pages Help]
